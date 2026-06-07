@@ -53,3 +53,6 @@ curl -X POST https://base64-converter.vercel.app/validate \
   -H "Content-Type: application/json" \
   -d '{"base64_string": "SGVsbG8gV29ybGQ="}'
 ```
+
+## Postman
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/BT-Builds/base64-converter/main/postman_collection.json)
